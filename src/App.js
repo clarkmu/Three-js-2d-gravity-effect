@@ -186,6 +186,7 @@ export default function App() {
               Speed (ms)
             </label>
             <input
+              step="10"
               min="1"
               type="number"
               id="speed"
@@ -202,7 +203,8 @@ export default function App() {
               Zoom In/Out
             </label>
             <input
-              min="1"
+              step="5"
+              min="5"
               type="number"
               id="zoom"
               style={{ width: "5ch" }}

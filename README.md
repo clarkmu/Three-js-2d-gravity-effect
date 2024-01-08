@@ -11,5 +11,8 @@ Each particle has a <b>velocity</b> that is eased by the <b>force</b> that is ca
 ## UI:
 <img src="./demo.png" style="max-height: 50vh;">
 
+### !Motion warning!
+<img src="./demo.gif" style="max-height: 50vh;">
+
 
 ### Created and hosted on [CodeSandbox, here](https://codesandbox.io/s/github/clarkmu/Three-js-2d-gravity-effect).
